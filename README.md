@@ -1,3 +1,3 @@
 Project's description
-The first line is the beginning of the file showing that this is bash script
-The second line is a bash command to change a user
+0-iam_betty:command to change a user to betty
+1-who_am_1: print the current user
