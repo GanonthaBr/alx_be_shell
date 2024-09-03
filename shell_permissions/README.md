@@ -3,4 +3,4 @@ Project's description
 1-who_am_1: print the current user
 4-empty: create an empty file with shell
 5-execute: A script that add execution permission to the user
-6-multiple_permissions: give multiple permissions for the file hello
+6-multiple_permissions: give multiple permissions for the file hello.
